@@ -1,5 +1,5 @@
 # gearVR
-**An implementation of Gear VR homepage UI with HTML/CSS**
+**An implementation of Gear VR landing page UI with HTML/CSS**
 ## Preview
 [demo](https://crowdfund.netlify.app/)
 
