@@ -1,7 +1,7 @@
 # gearVR
 **An implementation of Gear VR landing page UI with HTML/CSS**
 ## Preview
-[demo](https://crowdfund.netlify.app/)
+[demo](https://gear-vr.netlify.app/)
 
 ## Getting Started
 Clone or download this repository and run with a local server of open `index.html` with your favorite browser
